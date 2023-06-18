@@ -1,0 +1,4 @@
+Nome;CPF;Logradouro;Estado;Cidade;Bairro;Número;Complemento;Data de Nascimento;E-mail;Sexo;Telefone;Celular;Celular com WhatsApp;Profissão;Empresa;Salário;Pretensão Mínima;Pretensão Máxima;Emprego Atual;Habilidades;
+Pedro;444.444.444-31;Rua Exemplo;Estado B;Cidade A;Bairro Teste;123;Complemento 1;04/11/1998;pedro@gmail.com;MASCULINO;9911999999999;9911993399944;true;Programador Java + Angular;MJV;R$1803.15;R$1800.32;R$2200.00;true;[Java SpringBoot PostgreSQL];
+Teste;111.444.444-31;Rua Exemploss;Estado teste;Cidade teste;Bairro aqui Teste;11;Complemento teste1;04/11/1988;aqui@gmail.com;OUTRO;9111111111;(55) 99 999999999;true;Testador;Empresa teste;R$1000.10;R$500.00;R$1000.50;false;[teste1 Teste2];
+Esther;444.334.114-31;Rua Exemplo2;Estado E;Cidade C;Bairro Teste2;11;Complemento 2;04/11/1997;esther@gmail.com;FEMININO;333333999;999999999;false;Cientista de dados;Empresa 2;R$1603.55;R$1600.33;R$2000.00;false;[Pacote Office Grafico];
