@@ -19,10 +19,9 @@
 <p align="justify">
       Criado com objetivo de deixar registrado vários projetos/trabalhos feitos na MJV School.<br>
    <p>
-      O primeiro projeto é de manipulação/criação de dados. 
-   Nele é criado um arquivo csv com os dados passados por código(hardcoding)<br>
-   e também é possível de ler o conteúdo de dentro de um arquivo csv.
-   Foi feito duas versões, uma utilizando Java N-IO e a outra utilizando ApachePOI
+      O primeiro projeto é de manipulação/criação de dados. <br> Nele é criado um arquivo csv com os dados passados por código(hardcoding)<br>
+      e também é possível de ler o conteúdo de dentro de um arquivo csv.<br> Existem duas versões, uma utilizando Java N-IO e a outra utilizando ApachePOI. <br>  
+      Na versão do ApachePOI é criado e lido um arquivo xls.
    </p>
    
 ## Lista de trabalhos
