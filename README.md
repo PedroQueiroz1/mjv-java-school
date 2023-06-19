@@ -32,12 +32,6 @@
       </li>
    </ol>
 
-## Como utilizar
-
-   Para utilizar o [primeiro projeto](https://github.com/PedroQueiroz1/mjv-java-school/tree/main/criando-arquivo-csv), de criação de arquivo csv, <br>
-   basta clonar o repositório e abrir a pasta do primeiro projeto com o intelliJ ou alguma IDE de sua preferência.<br>
-   Feito isso, rode um dos arquivos "TerminalNIO.java" ou "TerminalApachePOI.java" pela IDE.
-
 ## Ferramentas utilizadas
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
