@@ -17,7 +17,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-      Criado com objetivo de deixar registrado vários projetos/trabalhos feitos na MJV School. Meu PRIMEIRO contato com manipulação de dados, tive bastante dificuldade e tempo curto para realização do projeto<br>
+      Criado com objetivo de deixar registrado vários projetos/trabalhos feitos na MJV School. <br> Meu PRIMEIRO contato com manipulação de dados, tive bastante dificuldade e tempo curto para realização do projeto<br>
    <p>
       O primeiro projeto é de manipulação/criação de dados. Nele é criado um arquivo csv com os dados passados por código(hardcoding)<br>
       e também é possível de ler o conteúdo de dentro de um arquivo csv. Existem duas versões, uma utilizando Java N-IO e a outra utilizando ApachePOI.  
